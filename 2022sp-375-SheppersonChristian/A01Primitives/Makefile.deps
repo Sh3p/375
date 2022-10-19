@@ -1,0 +1,4 @@
+Main.o: Main.cpp ShaderProgram.hpp
+ShaderProgram.hpp:
+ShaderProgram.o: ShaderProgram.cpp ShaderProgram.hpp
+ShaderProgram.hpp:
